@@ -11,6 +11,11 @@ Một dự án cờ vua cá nhân lấy cảm hứng từ OpenClaw AI, kết h�
 
 [♟️ CHƠI CỜ VUA ONLINE](https://lichess.org/) · [🌐 Chess.com](https://www.chess.com/) · [💻 GitHub Repository](https://github.com/duyhiu0609-vv) . [OpenClaw Chess](https://file:///D:/openclaw-chess-demo/openclaw-chess-demo/index.html)
 
+## 🎮 Live Demo — OpenClaw Chess
+
+👉 [Bấm vào đây để mở demo OpenClaw Chess](openclaw-chess-demo/index.html)
+
+
 </div>
 
 ---
