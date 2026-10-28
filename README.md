@@ -112,30 +112,6 @@ OpenClaw Integration (Future)
 
 ---
 
-## 🚀 Run the Demo Locally
-
-### 1. Clone project
-
-```bash
-git clone https://github.com/duyhiu0609-vv/openclaw-chess-demo.git
-```
-
-### 2. Open the project
-
-```bash
-cd openclaw-chess-demo
-```
-
-Mở thư mục bằng VS Code.
-
-### 3. Start the demo
-
-Mở `index.html` bằng trình duyệt hoặc sử dụng extension **Live Server** trong VS Code.
-
-> Bản demo hiện tại sử dụng thư viện cờ vua từ CDN, vì vậy cần kết nối Internet để tải thư viện. Tên repository trong lệnh trên cần khớp với repository thực tế của bạn.
-
----
-
 ## 🗺️ Roadmap
 
 - [x] Xây dựng giao diện bàn cờ cơ bản.
