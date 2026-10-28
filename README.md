@@ -151,7 +151,7 @@ Mở `index.html` bằng trình duyệt hoặc sử dụng extension **Live Serv
 
 ## 📸 Preview
 
-> Thêm ảnh chụp màn hình bàn cờ của dự án tại đây sau khi bạn chạy demo.
+
 
 <img width="1158" height="886" alt="Screenshot 2026-10-28 144515" src="https://github.com/user-attachments/assets/9498a3aa-b58d-4c10-a16e-ded2ecbc7eb8" /> 
 <div align="center">
