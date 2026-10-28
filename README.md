@@ -175,10 +175,10 @@ Dự án đang trong quá trình phát triển cá nhân. Hãy bổ sung thông 
 
 ---
 
-<div align="center">
+
 
 **♟️ Every move is a new opportunity to learn.**
 
 *Built with curiosity, code, and a passion for chess.*
 
-</div>
+
