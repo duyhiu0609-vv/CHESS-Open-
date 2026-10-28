@@ -160,7 +160,7 @@ Mở `index.html` bằng trình duyệt hoặc sử dụng extension **Live Serv
 
 ---
 
-## 🔗 Links
+🔗 Links
 
 - **Play Chess:** [Lichess](https://lichess.org/)
 - **Chess Training:** [Chess.com](https://www.chess.com/)
@@ -169,7 +169,7 @@ Mở `index.html` bằng trình duyệt hoặc sử dụng extension **Live Serv
 
 ---
 
-## 📄 License
+📄 License
 
 Dự án đang trong quá trình phát triển cá nhân. Hãy bổ sung thông tin giấy phép phù hợp trước khi công bố hoặc phân phối mã nguồn.
 
