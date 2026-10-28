@@ -144,10 +144,10 @@ Mở `index.html` bằng trình duyệt hoặc sử dụng extension **Live Serv
 - [x] Xây dựng giao diện bàn cờ cơ bản.
 - [x] Tạo bản demo web ban đầu.
 - [x] Chuẩn bị cấu trúc kỹ năng cờ vua cho OpenClaw.
-- [ ] Triển khai demo lên website công khai.
-- [ ] Nâng cấp AI đánh cờ.
-- [ ] Thêm phân tích nước đi và giải thích chiến thuật.
-- [ ] Tích hợp OpenClaw Gateway khi cấu hình backend phù hợp.
+- [x] Triển khai demo lên website công khai.
+- [x] Nâng cấp AI đánh cờ.
+- [x] Thêm phân tích nước đi và giải thích chiến thuật.
+- [x] Tích hợp OpenClaw Gateway khi cấu hình backend phù hợp.
 - [ ] Hoàn thiện giao diện trên điện thoại.
 
 ---
