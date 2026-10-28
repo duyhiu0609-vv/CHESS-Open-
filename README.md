@@ -13,8 +13,7 @@ Một dự án cờ vua cá nhân lấy cảm hứng từ OpenClaw AI, kết h�
 
 ## 🎮 Live Demo — OpenClaw Chess
 
-👉 [Bấm vào đây để mở demo OpenClaw Chess](openclaw-chess-demo/index.html)
-
+👉 [🎮 Xem Live Demo](https://duyhiu0609-vv.github.io/openclaw-chess-demo/)
 
 </div>
 
