@@ -9,7 +9,7 @@
 
 Một dự án cờ vua cá nhân lấy cảm hứng từ OpenClaw AI, kết hợp trò chơi cờ vua, tư duy chiến thuật và định hướng phát triển trợ lý AI.
 
-[♟️ CHƠI CỜ VUA ONLINE](https://lichess.org/) · [🌐 Chess.com](https://www.chess.com/) · [💻 GitHub Repository](https://github.com/duyhiu0609-vv) . [OpenClaw Chess](file:///D:/openclaw-chess-demo/openclaw-chess-demo/index.html)
+[♟️ CHƠI CỜ VUA ONLINE](https://lichess.org/) · [🌐 Chess.com](https://www.chess.com/) · [💻 GitHub Repository](https://github.com/duyhiu0609-vv) . [OpenClaw Chess](https://file:///D:/openclaw-chess-demo/openclaw-chess-demo/index.html)
 
 </div>
 
