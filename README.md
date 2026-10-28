@@ -1,5 +1,5 @@
 <div align="center">
-# ♟️ OPENCLAW CHESS LAB
+♟️ OPENCLAW CHESS LAB
 
 ### Personal AI Chess Project
 
