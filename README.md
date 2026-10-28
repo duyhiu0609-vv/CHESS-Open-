@@ -1,7 +1,9 @@
+#♟️ OPENCLAW CHESS LAB 
+
 <div align="center">
   <img width="436" height="118" alt="image" src="https://github.com/user-attachments/assets/09743a41-0de2-49f6-a514-a3a61f813411" />
   
-#♟️ OPENCLAW CHESS LAB <heigh
+#♟️ OPENCLAW CHESS LAB 
 
 ### Personal AI Chess Project
 
