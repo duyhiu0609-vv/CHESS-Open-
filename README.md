@@ -53,9 +53,7 @@ Chọn nền tảng bên dưới để bắt đầu chơi ngay trên trình duy�
 
 </div>
 
-> **Lưu ý:** Hai website Lichess và Chess.com có thể mở chơi trực tiếp. Link demo riêng cần được thay bằng URL thực tế sau khi bạn đăng tải dự án lên GitHub Pages hoặc một nền tảng hosting khác.
 
----
 
 ## ✨ Project Features
 
